@@ -1,16 +1,23 @@
 ### Hi there 👋
 
-<!--
-**Nixie24/Nixie24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Nixie** from China 🇨🇳.
 
-Here are some ideas to get you started:
+- 📖 I'm currently a freshman in high school
+- 🎮 My go-to games:
+  - _Minecraft_
+  - _GTA_
+  - _Among Us_
+  - _Don't Starve_
+  - ...
+- 📨 Reach me at [ipadhim@qq.com](mailto:ipadhim@qq.com)
+- 🌐 Check out my work on [S-T.Fun](https://s-t.fun)
+- 🛠️ My tech stacks:
+  - JavaScript
+    - TypeScript
+    - Vue.js
+    - Solid.js
+  - PHP
+  - Python
+- 🎨 I'm also interested in digital design, like UI design and UX design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to reach out for collaboration or just to chat about our shared interests in gaming and tech! 🎉
