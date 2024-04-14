@@ -1,23 +1,21 @@
-### Hi there 👋
-
-I'm **Nixie** from China 🇨🇳.
+### Hi, I'm **Nixie**👋.
 
 - 📖 I'm currently a freshman in high school
-- 🎮 My go-to games:
+- 🎮 Go-to games:
   - _Minecraft_
   - _GTA_
   - _Among Us_
   - _Don't Starve_
   - ...
-- 📨 Reach me at [ipadhim@qq.com](mailto:ipadhim@qq.com)
+- 🎨 Interests in digital design(UI/UX design)
 - 🌐 Check out my work on [S-T.Fun](https://s-t.fun)
 - 🛠️ My tech stacks:
-  - JavaScript
-    - TypeScript
-    - Vue.js
-    - Solid.js
+  - JavaScript (TypeScript, Vue.js, Solid.js)
   - PHP
   - Python
-- 🎨 I'm also interested in digital design, like UI design and UX design
+- 📫 How to reach me:
+  - Email: [ipadhim@qq.com](mailto:ipadhim@qq.com) (also [ipadhimming@gmail.com](mailto:ipadhimming@gmail.com))
+  - Twitter [@ipadhimming](https://twitter.com/ipadhimming)
+  - Telegram [@Nixie_24](https://t.me/Nixie_24)
 
 Feel free to reach out for collaboration or just to chat about our shared interests in gaming and tech! 🎉
