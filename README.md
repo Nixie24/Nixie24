@@ -14,8 +14,8 @@
   - PHP
   - Python
 - 📫 How to reach me:
-  - Email: [ipadhim@qq.com](mailto:ipadhim@qq.com) (also [ipadhimming@gmail.com](mailto:ipadhimming@gmail.com))
-  - Twitter [@ipadhimming](https://twitter.com/ipadhimming)
-  - Telegram [@Nixie_24](https://t.me/Nixie_24)
+  - Email: [ipadhim@qq.com](mailto:ipadhim@qq.com)
+  - Twitter: [@ipadhimming](https://twitter.com/_Nix24_)
+  - Telegram: [@Nixie_24](https://t.me/Nixie_24)
 
 Feel free to reach out for collaboration or just to chat about our shared interests in gaming and tech! 🎉
