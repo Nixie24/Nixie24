@@ -2,6 +2,7 @@
 
 - 📖 I'm currently a freshman in high school
 - 🎮 Go-to games:
+  - _Project Sekai_
   - _Minecraft_
   - _GTA_
   - _Among Us_
@@ -14,8 +15,8 @@
   - PHP
   - Python
 - 📫 How to reach me:
-  - Email: [ipadhim@qq.com](mailto:ipadhim@qq.com)
-  - Twitter: [@ipadhimming](https://twitter.com/_Nix24_)
+  - Email: [Nix24@Foxmail.com](mailto:nix24@foxmail.com)
+  - Twitter: [@\_Nix24\_](https://x.com/_Nix24_)
   - Telegram: [@Nixie_24](https://t.me/Nixie_24)
 
 Feel free to reach out for collaboration or just to chat about our shared interests in gaming and tech! 🎉
