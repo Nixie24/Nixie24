@@ -20,6 +20,6 @@ High school student & independent developer, passionate about building fast, sca
 - Twitter: [@\_Nix24\_](https://x.com/_Nix24_)
 - Telegram: [@Nixie_24](https://t.me/Nixie_24)
 
-![My Tech Stack](https://skillicons.dev/icons?i=nodejs,typescript,javascript,react,solidjs,vue,nuxtjs,nextjs,php,python,c,cs,cpp,rust,go,git,github,vscode,figma,npm,pnpm,nginx,netlify,vite,webpack,tailwind,ps,ai,ae,pr)
+![My Tech Stack](https://skillicons.dev/icons?i=nodejs,typescript,javascript,react,solidjs,vue,nuxtjs,nextjs,php,python,c,cs,cpp,rust,go,git,github,vscode,figma,npm,pnpm,nginx,netlify,vite,webpack,tailwind)
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=Nixie24&count_private=true&line_height=20) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nixie24&count_private=true&line_height=20)
+![Github stats](https://github-readme-stats.vercel.app/api?username=Nixie24&count_private=true&line_height=20&theme=transparent) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nixie24&count_private=true&line_height=20&theme=transparent)
