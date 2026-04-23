@@ -1,25 +1,23 @@
-### Hi, I'm 廿肆 · Nixie · Nix24 👋
+# 廿肆 · Nixie · Nix24
 
-High school student & independent developer, passionate about building fast, scalable, and user-friendly applications.
+**Full-stack Developer & UI/UX Designer** Crafting digital experiences with speed and precision.
 
-#### 🚀 My Tech Stack
+---
 
-- **Frontend:** TypeScript, React,  Solid.js, Vue
-- **Backend:** Node.js, PHP, Python
-- **Full Stack**: Next.js
-- **Other:** UI/UX Design, Web Performance Optimization
+### 🚀 About Me
+I'm a high school student who spends more time in a code editor than a textbook. I specialize in the **TypeScript ecosystem** but love exploring low-level performance with **C/C++ and Rust**.
 
-#### 📂 My Featured Projects
+- 🌍 Portfolio: [s-t.fun](https://s-t.fun)
+- 🔭 Currently learning: Advanced Algorithms & Edge Computing.
+- 🎨 Philosophy: Design should be invisible; performance should be felt.
 
-- 🌐 [S-T.Fun](https://s-t.fun) — Personal portfolio & project hub
-- 🔧 More open-source work available in my [GitHub repositories](https://github.com/Nixie24)
+### 💻 Tech Stack
+![My Tech Stack](https://skillicons.dev/icons?i=nodejs,typescript,js,react,vue,php,python,cpp,rust,go,git,figma,pnpm,nginx,tailwind)
 
-#### 📫 Contact Me
+### 📂 Featured Projects
+*Check out my repositories for open-source contributions and personal experiments.*
 
-- Email: [nix24nya@gmail.com](mailto:nix24nya@gmail.com)
-- Twitter: [@\_Nix24\_](https://x.com/_Nix24_)
-- Telegram: [@Nixie_24](https://t.me/Nixie_24)
+![Stats](https://github-readme-stats.vercel.app/api?username=Nixie24&show_icons=true&theme=react&rank_icon=github)
 
-![My Tech Stack](https://skillicons.dev/icons?i=nodejs,typescript,javascript,react,solidjs,vue,nuxtjs,nextjs,php,python,c,cs,cpp,rust,go,git,github,vscode,figma,npm,pnpm,nginx,netlify,vite,webpack,tailwind)
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=Nixie24&count_private=true&line_height=20&theme=react) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nixie24&count_private=true&line_height=20&theme=react)
+---
+💬 **Let's connect!** Feel free to reach out via [Telegram](https://t.me/Nixie_24) or [Email](mailto:nix24nya@gmail.com).
