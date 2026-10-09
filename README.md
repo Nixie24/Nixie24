@@ -17,7 +17,7 @@ I'm a high school student who spends more time in a code editor than a textbook.
 ### 📂 Featured Projects
 *Check out my repositories for open-source contributions and personal experiments.*
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Nixie24&show_icons=true&theme=react&rank_icon=github)
+![contribution](https://raw.githubusercontent.com/Nixie24/Nixie24/refs/heads/snake/github-contribution-grid-snake-dark.svg)
 
 ---
 💬 **Let's connect!** Feel free to reach out via [Telegram](https://t.me/Nixie_24) or [Email](mailto:nix24nya@gmail.com).
